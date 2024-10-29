@@ -1,0 +1,19 @@
+{
+    "name": "lianpark/product",
+    "description": "Laravel Product Test",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lianpark\\Product\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lian Park",
+            "email": "woori01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
